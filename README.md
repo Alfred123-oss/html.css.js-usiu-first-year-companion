@@ -1,5 +1,3 @@
-# html.css.js-usiu-first-year-companion
-
 # USIU First-Year Companion (v1)
 
 Audience & Context
